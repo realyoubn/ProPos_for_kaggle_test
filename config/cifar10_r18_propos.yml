@@ -5,7 +5,7 @@ acc_grd_step: 4
 momentum_base: 0.996
 momentum_increase: false
 dataset: cifar10
-data_folder: '/kaggle/input'
+data_folder: '/kaggle/input/cifar10-python'
 eval_metric:
   - nmi
   - acc
