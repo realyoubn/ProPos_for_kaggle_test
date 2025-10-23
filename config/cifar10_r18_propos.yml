@@ -1,7 +1,7 @@
-batch_size: 128
+batch_size: 256
 num_devices: 1
 num_workers: 4
-acc_grd_step: 4
+acc_grd_step: 2
 momentum_base: 0.996
 momentum_increase: false
 dataset: cifar10
